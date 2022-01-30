@@ -24,9 +24,12 @@
 *.yml linguist-documentation=false
 *.yaml linguist-detectable=false
 *.yaml linguist-documentation=false
-# ReStructuredText
-*.rst linguist-detectable=true
-*.rst linguist-documentation=false
+# ROFF
+*.1 linguist-detectable=false
+*.1 linguist-documentation=false
+# Elm
+*.elm linguist-detectable=true
+*.elm linguist-documentation=false
 # WebVTT
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
@@ -62,6 +65,6 @@
 # End of linguist script
 # File info
 # File type: .gitattributes file (*.gitattributes)
-# File version: 2 (Sunday, 2021 August 22nd at 9:38 pm)
-# Line count (including blank lines and compiler line): 68
+# File version: 3 (Sunday, 2022 January 30th at 3:30 pm)
+# Line count (including blank lines and compiler line): 71
 # End of script
