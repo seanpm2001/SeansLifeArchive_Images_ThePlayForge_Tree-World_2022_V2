@@ -1,7 +1,7 @@
 
 ***
 
-# SeansLifeArchive_Images_ThePlayForge_TreeWorld-<year>_V<#>
+# SeansLifeArchive_Images_ThePlayForge_TreeWorld-2022_V2
 
 ![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/TreeWorldLogo.jpeg)
 
@@ -299,11 +299,11 @@ Contributing is not allowed for this project, as this is a personal project.
 
 ## About README
 
-File type: `Markdown (*.md)`
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-File version: `0.1.6 (Sunday, August 22nd 2021 at 9:58 pm)`
+**File version:** `1 (Sunday, 2022 January 30th at 3:46 pm)`
 
-Line count: `0,397`
+**Line count:** `0,403`
 
 ***
 
@@ -371,11 +371,15 @@ Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (Sunday, 2022 January 30th at 3:46 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the title
+
+> * Updated the file info
+
+> * Updated the file history section
 
 > * No other changes in version 1
 
