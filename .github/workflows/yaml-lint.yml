@@ -17,3 +17,5 @@ jobs:
         with:
           config_file: .yamllint.yml
           strict: false
+
+# Re-enable workflow
